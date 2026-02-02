@@ -1,0 +1,6 @@
+Parameter,Value
+Final_Model,Logistic Regression (Balanced)
+Solver,lbfgs
+Class_Weight,balanced
+Max_Iterations,5000
+Random_State,42
